@@ -8,6 +8,7 @@ javac -classpath .:/Library/gurobi1103/macos_universal2/lib/gurobi.jar Diet.java
 java -cp .:/Library/gurobi1103/macos_universal2/lib/gurobi.jar Diet
 ```
 
+The structure of the project is as follows:
 
 ![project structure](img/project_structure.png)
 
